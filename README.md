@@ -41,7 +41,7 @@ The app is a standard Android TV APK. Pick the easiest method:
 
 ### Option A — Downloader (AFTVnews)
 1. Install **Downloader** from the Play Store (Android TV / Google TV) or Amazon Appstore (Fire TV).
-2. Open Downloader and enter the APK link from the latest release below.
+2. Open Downloader and enter code **3292493** (or the APK link from the latest release below).
 3. Tap **Go** to download, then **Install** (allow "Install unknown apps" for Downloader if asked).
 
 ### Option B — Send Files to TV
@@ -69,6 +69,10 @@ Or send directly via PayPal: [paypal.me/ToanNguyen189](https://www.paypal.me/Toa
 Your support keeps the apps free and funds new ones.
 
 ## Changelog
+
+### v2.1.1 (19 Nov 2026)
+- Support dialog now shows a website QR + link (toannguyeninoz.pp.ua) next to Buy Me a Coffee
+- Mini Crossword and Sudoku fixes: clue text wraps instead of cutting off, the next-puzzle button label fits, in-progress games are saved and restored, erasing a hinted Sudoku cell refunds the hint, and Hub UP/DOWN moves to the nearest tile
 
 ### v1.0.0 (26 Oct 2026)
 - First public version: Hub with 4 games (Minesweeper, 2048, Match-3, Runner), best score per game saved on the TV, music + MUTE, Buy Me a Coffee QR overlay, auto-update check
